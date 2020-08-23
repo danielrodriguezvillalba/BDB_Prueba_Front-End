@@ -18,6 +18,6 @@ Ejecute el siguiente comando para instalar las dependencias necesarias, esto pue
 
 Inicie la ejecución de la aplicación 
 
-````npm start```
+```npm start```
 
 Y listo, la aplicación esta corriendo por el puerto 3000.
